@@ -74,3 +74,4 @@
 
 ## 其他平台类似软件推荐
 - https://github.com/jmxl/MonitorInfo
+   - Apple Silicon 已经查不到了 `ioreg -lw0 | grep -i "IODisplayEDID"` 结果是空的
