@@ -15,9 +15,14 @@
 
 
 ## 实现原理
-核心函数主要是下面几个
+核心函数主要是下面几个:
 - [GetEDID](https://github.com/eric-gitta-moore/Monitor-Info/blob/main/Edid.cs#L35)
 - [GetActualEDID](https://github.com/eric-gitta-moore/Monitor-Info/blob/main/Edid.cs#L63)
+
+主要的几个 win32 API:
+- [EnumDisplayDevicesA function (winuser.h)](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-enumdisplaydevicesa)
+- SetupDiGetClassDevsEx
+- SetupDiEnumDeviceInfo
 
 ## 项目简介
 
