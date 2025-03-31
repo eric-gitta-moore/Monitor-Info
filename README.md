@@ -11,6 +11,9 @@
 
 软件版本：2.2.1.19629
 
+<img width=50% src='https://github.com/user-attachments/assets/84dd1393-f068-46ca-8605-40af246189fc' /><img width=50% src='https://github.com/user-attachments/assets/25a352fc-d4a9-48e2-a1d0-a744824fd5c5' />
+
+
 ## 实现原理
 核心函数主要是下面几个
 - [GetEDID](https://github.com/eric-gitta-moore/Monitor-Info/blob/main/Edid.cs#L35)
