@@ -11,6 +11,11 @@
 
 软件版本：2.2.1.19629
 
+## 实现原理
+核心函数主要是下面几个
+- [GetEDID](https://github.com/eric-gitta-moore/Monitor-Info/blob/main/Edid.cs#L35)
+- [GetActualEDID](https://github.com/eric-gitta-moore/Monitor-Info/blob/main/Edid.cs#L63)
+
 ## 项目简介
 
 显示器色域检测工具是一款用于检测和分析显示器色彩参数的实用软件。本工具可以读取显示器的EDID信息，分析并显示色域覆盖率、色彩坐标、制造商信息等重要参数，帮助用户了解自己显示器的色彩性能和基本信息。
