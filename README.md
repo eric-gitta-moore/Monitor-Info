@@ -66,7 +66,15 @@
 
 ## 参考
 - https://support.touch-base.com/Documentation/50730/EDID-Structure
-- 
+- [NativeDisplayBrightness/DDC.h](https://github.com/Bensge/NativeDisplayBrightness/blob/master/NativeDisplayBrightness/DDC.h#L77)
+- [EDID 内存布局](https://www.cnblogs.com/fire909090/p/10523604.html)
+
+010 editor 可以解析出来
+<img width="1404" alt="image" src="https://github.com/user-attachments/assets/a4581ab1-91da-462e-8ab0-7d20d6da71f3" />
+
+[AW EDID Editor](https://www.analogway.com/products/aw-edid-editor) 可以直接解析，文件名后缀是 `.bin`，支持 win//mac
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/0231f9d2-0c40-4178-92b9-39e4f7fdf2d5" />
+
 
 ## 关于
 
