@@ -64,6 +64,14 @@
 
 软件使用色彩空间转换算法计算显示器的色域覆盖率，并通过图形化方式展示色域范围，帮助用户直观了解显示器的色彩表现能力。
 
+## 关于
+
+本软件是一款显示器色域检测工具，用于帮助用户了解显示器的色彩性能和基本参数。软件界面简洁直观，操作简单，适合普通用户使用。
+
+## 其他平台类似软件推荐
+- https://github.com/jmxl/MonitorInfo
+   - 实测 Apple Silicon 内置显示器查不到，但是外置的可以
+
 ## 参考
 - https://support.touch-base.com/Documentation/50730/EDID-Structure
 - [NativeDisplayBrightness/DDC.h](https://github.com/Bensge/NativeDisplayBrightness/blob/master/NativeDisplayBrightness/DDC.h#L77)
@@ -75,12 +83,3 @@
 
 [AW EDID Editor](https://www.analogway.com/products/aw-edid-editor) 可以直接解析，文件名后缀是 `.bin`，支持 win//mac
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/0231f9d2-0c40-4178-92b9-39e4f7fdf2d5" />
-
-
-## 关于
-
-本软件是一款显示器色域检测工具，用于帮助用户了解显示器的色彩性能和基本参数。软件界面简洁直观，操作简单，适合普通用户使用。
-
-## 其他平台类似软件推荐
-- https://github.com/jmxl/MonitorInfo
-   - 实测 Apple Silicon 内置显示器查不到，但是外置的可以
