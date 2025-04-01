@@ -73,6 +73,7 @@
    - 实测 Apple Silicon 内置显示器查不到，但是外置的可以
 
 ## 参考
+- [DCI-P3 广色域屏 Webkit-logo-P3 测试图](https://v2ex.com/t/622454#r_16034770)
 - https://support.touch-base.com/Documentation/50730/EDID-Structure
 - [NativeDisplayBrightness/DDC.h](https://github.com/Bensge/NativeDisplayBrightness/blob/master/NativeDisplayBrightness/DDC.h#L77)
 - [EDID 内存布局](https://www.cnblogs.com/fire909090/p/10523604.html)
