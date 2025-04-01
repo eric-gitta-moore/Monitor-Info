@@ -68,6 +68,7 @@
 - https://support.touch-base.com/Documentation/50730/EDID-Structure
 - [NativeDisplayBrightness/DDC.h](https://github.com/Bensge/NativeDisplayBrightness/blob/master/NativeDisplayBrightness/DDC.h#L77)
 - [EDID 内存布局](https://www.cnblogs.com/fire909090/p/10523604.html)
+- 核心就是一句命令 `ioreg -lw0 | grep -i "IODisplayEDID" | sed -e 's/.*<//' -e 's/>//'`
 
 010 editor 可以解析出来
 <img width="1404" alt="image" src="https://github.com/user-attachments/assets/a4581ab1-91da-462e-8ab0-7d20d6da71f3" />
